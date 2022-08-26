@@ -1,0 +1,5 @@
+start an interactive session
+
+
+./runme.sh     : builds and runs the fortran example for all openmpi modules 
+./runme-c.sh   : builds and runs the c example for all openmpi modules  
